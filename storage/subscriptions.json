@@ -1,0 +1,18 @@
+{
+    "subscriptions": [
+        {
+            "id": 3,
+            "name": "Спотифай",
+            "price": 300,
+            "paid": true,
+            "payment_date": "2026-06-07"
+        },
+        {
+            "id": 4,
+            "name": "Яндекс премиум",
+            "price": 200,
+            "paid": false,
+            "payment_date": null
+        }
+    ]
+}
