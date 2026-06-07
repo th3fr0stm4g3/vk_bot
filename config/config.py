@@ -1,1 +1,1 @@
-TOKEN = "vk1.a.ChKi8zNAlq4UApm5AH4XPa_JrHrMUbQfRZbFg2w1vAPTeKg0urL2qmWt2N5-xt34ytEIddUiK73IOUapBkW5NwKm8hgNtvGA9hjvLdtjQRp_JGv-bA_LahUL_V3QrMkWpvhjIrLmeqVSOTUiwDm2dXMFQ91Ju9d1C0ACqn2IceLqx2fTu6w2T0otixtjWR0kiNNRO0gxd6SX8QbB6P6i6Q"
+TOKEN = "место под токен"
